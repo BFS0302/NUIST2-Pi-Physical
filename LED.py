@@ -1,3 +1,6 @@
+#name:Zhang Yutong
+#Date:30/3/2026
+#project function:control LED
 import RPi.GPIO as GPIO  
 import time              
 GPIO.setmode(GPIO.BCM)   
