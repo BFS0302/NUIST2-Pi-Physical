@@ -1,4 +1,6 @@
-
+name:Zhang Yutong
+date:30/3/2026
+NUIST Quiz Game in Python
 def quiz():
     print("Welcome to the Animal Quiz!")
     print("Answer the following questions:")
